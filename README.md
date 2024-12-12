@@ -27,5 +27,6 @@
 ## Part 2: Barber Shot
 
 ### Algorithm 
-> Currently working for 2 barbers outside of the fact they for some reason never 
-> move on to the next customer
+> It is not possible for deadlock however starvation is likely if
+> there is not enough barbers or not enough customers
+> 
